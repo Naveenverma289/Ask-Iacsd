@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5732b8ac.chunk.css",
+    "main.js": "/static/js/main.e2013b9b.chunk.js",
+    "main.js.map": "/static/js/main.e2013b9b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.621c7541.js",
+    "runtime-main.js.map": "/static/js/runtime-main.621c7541.js.map",
+    "static/js/2.d7f4bee4.chunk.js": "/static/js/2.d7f4bee4.chunk.js",
+    "static/js/2.d7f4bee4.chunk.js.map": "/static/js/2.d7f4bee4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5732b8ac.chunk.css.map": "/static/css/main.5732b8ac.chunk.css.map",
+    "static/js/2.d7f4bee4.chunk.js.LICENSE.txt": "/static/js/2.d7f4bee4.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/static/media/BIT_Ad.2d8d0f49.jpg",
+    "static/media/Bit_icon.34abb871.jpg": "/static/media/Bit_icon.34abb871.jpg",
+    "static/media/Library.f92e36ff.jpg": "/static/media/Library.f92e36ff.jpg",
+    "static/media/bit2.89645971.png": "/static/media/bit2.89645971.png",
+    "static/media/sports.ab0059d9.jpg": "/static/media/sports.ab0059d9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.621c7541.js",
+    "static/js/2.d7f4bee4.chunk.js",
+    "static/css/main.5732b8ac.chunk.css",
+    "static/js/main.e2013b9b.chunk.js"
+  ]
+}
